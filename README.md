@@ -1,61 +1,74 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=282829&height=200&section=header&text=Backend%20Developer&fontColor=00ff00&fontSize=60&animation=fadeIn&fontAlignY=55&desc=Platypus&descAlignY=70&descAlign=62)
+
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Platypus%20Dev&fontSize=50&animation=fadeIn&desc=Backend%20Developer&descAlignY=55)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fplatypus3036&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fplatypus3036&count_bg=%2300FF00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
-## 🧑‍💻 About Me
-- 백엔드 개발자를 꿈꾸는 주니어 개발자입니다
-- 새로운 기술을 배우고 적용하는 것을 좋아합니다
-- 클린 코드와 테스트 코드 작성에 관심이 많습니다
+<br/>
 
-## 🛠 Tech Stack
+<div align="center">
+  
+### 🌱 성장하는 개발자
+클린 코드와 테스트 코드 작성에 관심이 많은 백엔드 개발자입니다.
+
+</div>
+
+<br/>
+
+## 💻 Tech Stack
+
+<div align="center">
+  
 ### Backend
-<p>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### Database & Infrastructure
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-</p>
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### Tools & IDE
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-</p>
-
-## 📊 GitHub Stats
-<div align="center">
-  
-![Platypus's GitHub stats](https://github-readme-stats.vercel.app/api?username=platypus3036&show_icons=true&theme=tokyonight)
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=platypus3036&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=platypus3036&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=platypus3036)](https://solved.ac/platypus3036)
+### Infrastructure
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
+
+<br/>
+
+## 📊 Stats
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=platypus3036&show_icons=true&theme=dark&bg_color=282829&text_color=00ff00&title_color=00ff00&icon_color=00ff00&border_color=00ff00" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=platypus3036&layout=compact&theme=dark&bg_color=282829&text_color=00ff00&title_color=00ff00&border_color=00ff00" width="41%" />
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akakehcn)](https://solved.ac/akakehcn)
+
+</div>
+
+<br/>
 
 ## 🚀 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=platypus3036&repo=project1&theme=tokyonight)](https://github.com/platypus3036/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=platypus3036&repo=project2&theme=tokyonight)](https://github.com/platypus3036/project2)
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=platypus3036&repo=project1&theme=dark&bg_color=282829&text_color=00ff00&title_color=00ff00&icon_color=00ff00&border_color=00ff00)](https://github.com/platypus3036/project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=platypus3036&repo=project2&theme=dark&bg_color=282829&text_color=00ff00&title_color=00ff00&icon_color=00ff00&border_color=00ff00)](https://github.com/platypus3036/project2)
 
-## 📫 Contact & Channel
-<p align="center">
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/platypus3036"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="your-blog-url"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-</p>
+</div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+<br/>
+
+## 📫 Contact
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/platypus3036)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=282829&height=100&section=footer)
