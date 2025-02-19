@@ -1,56 +1,53 @@
 <div align="center">
-  <img src="본인의 배너 이미지 URL" alt="banner">
-</div>
-
-# 안녕하세요, [이름]입니다 👋
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Platypus%20Github!&fontSize=45&animation=fadeIn)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fplatypus3036&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## 💫 About Me
-- 🔭 현재 [회사/학교]에서 [역할]을 담당하고 있습니다
-- 🌱 [기술스택]을 학습하고 있습니다
-- 👯 [분야]에서 협업하고 싶습니다
-- 📝 기술 블로그: [블로그 주소]
+</div>
 
-## 🛠 Technical Skills
+## 🧑‍💻 About Me
+- 백엔드 개발자를 꿈꾸는 주니어 개발자입니다
+- 새로운 기술을 배우고 적용하는 것을 좋아합니다
+- 클린 코드와 테스트 코드 작성에 관심이 많습니다
 
-### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+## 🛠 Tech Stack
+### Backend
+<p>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 
-### 🔧 Framework & Library
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+### Frontend
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
 
-### 🗄 Database
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### Tools
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=platypus3036&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=platypus3036&theme=radical" />
+  
+![Platypus's GitHub stats](https://github-readme-stats.vercel.app/api?username=platypus3036&show_icons=true&theme=tokyonight)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=platypus3036&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
-## 🏆 Projects
-### [프로젝트명]
-- 프로젝트 소개
-- 사용 기술: `Tech1`, `Tech2`
-- [Demo Link] | [GitHub]
-
-## 🎯 Career
-| 기간 | 소속 | 역할 |
-|------|------|------|
-| 2023 - 현재 | 회사명 | 직무 |
-| 2021 - 2023 | 학교명 | 전공 |
-
 ## 📫 Contact
-- Email: your.email@example.com
-- LinkedIn: [프로필 링크]
-- Blog: [블로그 링크]
+<p align="center">
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/platypus3036"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
-## 🌐 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+</div>
