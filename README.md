@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=282829&height=200&section=header&text=Backend%20Developer&fontColor=00ff00&fontSize=60&animation=fadeIn&fontAlignY=55&desc=Platypus&descAlignY=70&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=slice&color=282829&height=200&section=header&text=Backend%20Developer&fontColor=00ff00&fontSize=60&animation=fadeIn&fontAlignY=55&descAlignY=70&descAlign=62)
 
 <div align="center">
   
@@ -66,8 +66,9 @@
 ## 📫 Contact
 <div align="center">
   
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akakehcn@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/platypus3036)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/platypus3036)
 
 </div>
 
