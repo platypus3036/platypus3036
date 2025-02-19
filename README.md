@@ -54,7 +54,7 @@
 ## 🚀 Projects
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=platypus3036&repo=project1&theme=dark&bg_color=282829&text_color=00ff00&title_color=00ff00&icon_color=00ff00&border_color=00ff00)](https://github.com/platypus3036/project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=platypus3036&repo=project1&theme=dark&bg_color=282829&text_color=00ff00&title_color=00ff00&icon_color=00ff00&border_color=00ff00)](https://github.com/P5-2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=platypus3036&repo=project2&theme=dark&bg_color=282829&text_color=00ff00&title_color=00ff00&icon_color=00ff00&border_color=00ff00)](https://github.com/platypus3036/project2)
 
 </div>
