@@ -18,7 +18,7 @@
 - Docker
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자이름&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=platypus3036&show_icons=true&theme=radical)
 
 ## 📫 Contact
 - Email: 이메일주소
