@@ -18,23 +18,26 @@
 <br/>
 
 ## 💻 Tech Stack
-
 <div align="center">
-  
-### Backend
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### Infrastructure
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <div>
+    <h3>Backend</h3>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  </div>
+  <div>
+    <h3>Frontend</h3>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  </div>
+  <div>
+    <h3>Infrastructure</h3>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  </div>
+</div>
 </div>
 
 <br/>
@@ -42,11 +45,8 @@
 ## 📊 Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=platypus3036&show_icons=true&theme=dark&bg_color=282829&text_color=00ff00&title_color=00ff00&icon_color=00ff00&border_color=00ff00" width="49%" />
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akakehcn)](https://solved.ac/akakehcn)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=platypus3036&show_icons=true&theme=dark&bg_color=282829&text_color=00ff00&title_color=00ff00&icon_color=00ff00&border_color=00ff00" width="49%" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=akakehcn" width="40%" align="top" />
 </div>
 
 <br/>
