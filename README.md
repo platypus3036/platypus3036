@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=282829&height=200&section=header&text=Backend%20Developer&fontColor=00ff00&fontSize=60&animation=fadeIn&fontAlignY=55&descAlignY=70&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=Platypus3036&fontColor=FFFFFF&desc=Backend%20Developer&descAlignY=75&descAlign=60)
 
 <div align="center">
   
@@ -44,8 +44,6 @@
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=platypus3036&show_icons=true&theme=dark&bg_color=282829&text_color=00ff00&title_color=00ff00&icon_color=00ff00&border_color=00ff00" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=platypus3036&layout=compact&theme=dark&bg_color=282829&text_color=00ff00&title_color=00ff00&border_color=00ff00" width="41%" />
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akakehcn)](https://solved.ac/akakehcn)
 
