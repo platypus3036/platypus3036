@@ -52,10 +52,12 @@
 <br/>
 
 ## 🚀 Projects
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=platypus3036&repo=project1&theme=dark&bg_color=282829&text_color=00ff00&title_color=00ff00&icon_color=00ff00&border_color=00ff00)](https://github.com/P5-2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=platypus3036&repo=project2&theme=dark&bg_color=282829&text_color=00ff00&title_color=00ff00&icon_color=00ff00&border_color=00ff00)](https://github.com/platypus3036/project2)
+
+### 재정 개조단
+- 금융 상품 추천 비교 서비스
+- 개발 기간: 2024.09.05 ~ 2024.10.15
+- 사용 기술: `Spring`, `React`, `AWS`
+- [프로젝트 상세 보기](https://github.com/P5-2/P5-2)
 
 </div>
 
