@@ -26,11 +26,19 @@
 
 ## 🚀 Projects
 
+### 📈 Stocks Are Everywhere, 온세상이 주식이야
+- **모의투자 플랫폼**
+- **개발 기간:** 2025.02.28 ~ 2025.04.03
+- **사용 기술:** `React`, `TypeScript`, `Vite`, `Spring Boot`, `Java`, `MySQL`, `Redis`, `JPA`, `RabbitMQ`, `gRPC`, `Python`, `FastAPI`
+- **주요 트러블슈팅:**
+    - User-service: 다수 동시 트랜잭션으로 인한 계좌 데이터 부정합 및 커넥션 고갈 문제 → 비관적 락 적용 및 DB 커넥션 풀 최적화로 해결.
+    - Order-service: 외부 서비스 통신 비효율 및 빈번한 DB 조회로 인한 성능 저하 → gRPC 도입 및 종가 데이터 인메모리 캐싱으로 개선.
+- [프로젝트 상세 보기](https://github.com/platypus3036/onseju)
 
 
 ### 📚 Book_wave
 - **중고책 거래 플랫폼**
-- **개발 기간:** 2024.11.11 ~ 2024. 12. 12
+- **개발 기간:** 2024.11.11 ~ 2024.12.12
 - **사용 기술:** `Spring Boot`, `OAuth 2.0`, `WebSocket`, `RabbitMQ`, `React`
 - **주요 트러블슈팅:**
     - 채팅 시 닉네임 조회를 위한 불필요한 DB 접근 발생 → Access Token Claim에 닉네임 추가하여 DB 조회 최소화.
