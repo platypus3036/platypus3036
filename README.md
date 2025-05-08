@@ -1,9 +1,3 @@
-<!-- 헤더 배너 (API가 불안정할 경우, 직접 만든 이미지를 업로드해 사용하는 것도 추천) -->
-![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=Platypus3036&fontColor=FFFFFF&desc=Backend%20Developer&descAlignY=75&descAlign=60)
-
-<div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fplatypus3036&count_bg=%2300FF00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
